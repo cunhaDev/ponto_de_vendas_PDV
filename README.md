@@ -4,7 +4,7 @@ Sistema completo de vendas com SysPdv e SysLoja.
 
 Colaborei com a Manutenção do Sistema e também com a criação e manutenção de todo o Banco de dados.
 
-#O Menu Geral é dividido nos seguintes menus e sub-menus: 
+#O Menu Geral é dividido nos seguintes menus e sub-menus:  
 
 -   CADASTRO:
 
